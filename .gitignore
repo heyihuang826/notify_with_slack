@@ -1,2 +1,4 @@
 /.idea/
 /docs/dev/
+*.code-workspace
+temp.ipynb
